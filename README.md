@@ -5,3 +5,7 @@
 02 - Stringhe e input
 
 03 - Selezione e iterazione
+
+04 - Funzioni
+
+05 - Liste
